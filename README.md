@@ -33,7 +33,8 @@ YouTubeInsights is a tool that analyzes your YouTube search history to extract f
     - **Remove stop words**: Remove common words that do not contribute much to the meaning, such as "the", "and", "is", etc.
     - **Stemming or Lemmatization**: Reduce words to their root form.
     - **Topic Extraction**: Use techniques like TF-IDF (Term Frequency-Inverse Document Frequency) or LDA (Latent Dirichlet Allocation) to extract topics.
-
+## Coding
+1.
 ## Contributing
 
 If you would like to contribute to this project, please fork the repository and submit a pull request. For major changes, please open an issue first to discuss what you would like to change.
